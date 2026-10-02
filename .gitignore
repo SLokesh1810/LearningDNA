@@ -5,3 +5,9 @@ __MACOSX
 contents
 venv
 KT4_merged.feather
+
+EdNet_KT4_processing.ipynb
+KT4_ feature_processing.ipynb
+
+/models
+/content
