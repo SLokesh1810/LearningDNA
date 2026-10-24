@@ -1,0 +1,23 @@
+{
+  "source_file": "D:\\Lokesh files\\Projects\\LearningDNA\\content\\chunks\\OOPConcepts_chunks.json",
+  "provider": "custom_api",
+  "model": "microsoft/Phi-3-mini-4k-instruct",
+  "statistics": {
+    "chunks_processed": 2,
+    "concepts": 0,
+    "relationships": 0,
+    "learning_objectives": 0,
+    "failed_batches": 1
+  },
+  "failed_batches": [
+    {
+      "batch": 1,
+      "error": "Invalid JSON after one retry. First: Model response is not valid JSON (Expecting property name enclosed in double quotes at line 2, column 296); second: Model response is not valid JSON (Expecting property name enclosed in double quotes at line 2, column 58). Raw responses saved in D:\\Lokesh files\\Projects\\LearningDNA\\content_intelligence\\diagnostics."
+    }
+  ],
+  "quality_notes": [
+    "Evidence quotes are retained only when they exactly match source chunk text (case-insensitive).",
+    "Review inferred prerequisites before using them to control learner progression.",
+    "LLM-generated output requires human quality review."
+  ]
+}

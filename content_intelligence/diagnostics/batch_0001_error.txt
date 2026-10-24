@@ -1,0 +1,1 @@
+Invalid JSON after one retry. First: Model response is not valid JSON (Expecting property name enclosed in double quotes at line 2, column 296); second: Model response is not valid JSON (Expecting property name enclosed in double quotes at line 2, column 58). Raw responses saved in D:\Lokesh files\Projects\LearningDNA\content_intelligence\diagnostics.

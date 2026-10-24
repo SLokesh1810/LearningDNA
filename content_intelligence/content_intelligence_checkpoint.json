@@ -1,0 +1,13 @@
+{
+  "source_sha256": "ac8be7dce84d2a7a4e97a146046e9e3771c1959fd342cdd5d867e90759794a5d",
+  "batch_size": 2,
+  "model": "microsoft/Phi-3-mini-4k-instruct",
+  "results": [
+    {
+      "concepts": [],
+      "relationships": [],
+      "learning_objectives": [],
+      "_error": "Invalid JSON after one retry. First: Model response is not valid JSON (Expecting property name enclosed in double quotes at line 2, column 296); second: Model response is not valid JSON (Expecting property name enclosed in double quotes at line 2, column 58). Raw responses saved in D:\\Lokesh files\\Projects\\LearningDNA\\content_intelligence\\diagnostics."
+    }
+  ]
+}
