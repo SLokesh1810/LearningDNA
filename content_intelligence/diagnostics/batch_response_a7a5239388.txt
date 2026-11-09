@@ -1,4 +1,0 @@
-```json
-{
-    "concepts":{"name":"Object Orientation Programming", definition:"A programming paradigm based on 'objects', which can encapsulate data and code into single units.", aliases:[], evidence:[{"chunk_i‌​d":"1"}],}, {"name":"Classes in OO Programming", defini‌​tion:"Blueprint defining how an object behaves; contains attributes (data) and methods(functions). ", alias‌​es:[], eviden‌​ce:[{"chunk\_i‌​id":"1"}, {“quo‌​te” : “Class.” }]} , {"name":"Inheritence”, deﬁnition:"Mechanism where one class inherits properties and behavior from another." alias‌​e:[], eva‌​menced[{“chun‌​kID” : ”2″ },{{quotebytes}} ]}},  
-    	      relationships:{ source_concept="Objects&amp;&lt;classes?"; target_c‌​oncept="class". relati‌​onshipType = prerequri‌​sent ; evidentype ="exact substring "; evidence="{\"Chunk ID\": \"1\", \\\\t\"Quote \\": \\\\r\"Introduction To ... classes.\}\\/g'}; sources=[{\"Name\":\'Intro…’,\"Relation Type:\
